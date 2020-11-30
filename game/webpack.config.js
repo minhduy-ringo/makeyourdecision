@@ -52,7 +52,7 @@ module.exports = {
     new CopyPlugin({
       patterns: [
         {
-          from: 'src/game.html',
+          from: 'src/index.html',
         }
       ],
     }),
