@@ -1,0 +1,10 @@
+{
+  "misc": [],
+  "background": [
+    {
+      "type": "image",
+      "key": "cloud-background",
+      "url": "assets/images\\background\\cloud-background.png"
+    }
+  ]
+}

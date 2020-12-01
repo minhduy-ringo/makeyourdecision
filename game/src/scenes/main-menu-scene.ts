@@ -1,4 +1,5 @@
 import { MenuButton } from '../ui/menu-button';
+import { getGameWidth, getGameHeight } from '../helpers';
 
 const sceneConfig: Phaser.Types.Scenes.SettingsConfig = {
   active: false,
@@ -14,19 +15,32 @@ export class MainMenuScene extends Phaser.Scene {
     super(sceneConfig);
   }
 
+  bg:Phaser.GameObjects.TileSprite;
+
   public create(): void {
-    this.add
-      .text(100, 50, 'This is a sample main menu. Click the "Start" button below to run your game.', {
-        fill: '#FFFFFF',
-      })
-      .setFontSize(24);
+    const halfWidth = getGameWidth(this) * 0.5;
+    const halfHeight = getGameHeight(this) * 0.5;
+    // Add background
+    this.bg = this.add.tileSprite (
+      halfWidth,
+      halfHeight,
+      0,
+      0,
+      'menu-bg'
+    )
+    this.bg.setDisplaySize(halfWidth * 2, halfHeight * 2);
+    this.bg.setAlpha(0.8);
 
-    new MenuButton(this, 100, 150, 'Start Game', () => {
-      this.scene.start('Game');
-    });
+    // new MenuButton(this, 100, 150, 'Start Game', () => {
+    //   this.scene.start('Game');
+    // });
 
-    new MenuButton(this, 100, 250, 'Settings', () => console.log('settings button clicked'));
+    // new MenuButton(this, 100, 250, 'Settings', () => console.log('settings button clicked'));
 
-    new MenuButton(this, 100, 350, 'Help', () => console.log('help button clicked'));
+    // new MenuButton(this, 100, 350, 'Help', () => console.log('help button clicked'));
+  }
+
+  public update(): void{
+    this.bg.tilePositionX-= 0.4;
   }
 }

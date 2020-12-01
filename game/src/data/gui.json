@@ -1,0 +1,90 @@
+{
+  "misc": [
+    { "type": "image", "key": "+", "url": "assets/gui\\+.png" },
+    { "type": "image", "key": "bar box", "url": "assets/gui\\bar box.png" },
+    { "type": "image", "key": "bar", "url": "assets/gui\\bar.png" },
+    { "type": "image", "key": "box", "url": "assets/gui\\box.png" },
+    { "type": "image", "key": "candy bar", "url": "assets/gui\\candy bar.png" },
+    { "type": "image", "key": "coin", "url": "assets/gui\\coin.png" },
+    {
+      "type": "image",
+      "key": "goods coin",
+      "url": "assets/gui\\goods coin.png"
+    },
+    {
+      "type": "image",
+      "key": "goods jelly",
+      "url": "assets/gui\\goods jelly.png"
+    },
+    { "type": "image", "key": "goods", "url": "assets/gui\\goods.png" },
+    { "type": "image", "key": "jelly", "url": "assets/gui\\jelly.png" },
+    { "type": "image", "key": "line", "url": "assets/gui\\line.png" },
+    { "type": "image", "key": "off", "url": "assets/gui\\off.png" },
+    { "type": "image", "key": "on", "url": "assets/gui\\on.png" },
+    { "type": "image", "key": "stage", "url": "assets/gui\\stage.png" },
+    { "type": "image", "key": "star box", "url": "assets/gui\\star box.png" },
+    { "type": "image", "key": "star", "url": "assets/gui\\star.png" },
+    { "type": "image", "key": "x", "url": "assets/gui\\x.png" }
+  ],
+  "button": [
+    { "type": "image", "key": "exit", "url": "assets/gui\\b\\exit.png" },
+    { "type": "image", "key": "help", "url": "assets/gui\\b\\help.png" },
+    { "type": "image", "key": "ok", "url": "assets/gui\\b\\ok.png" },
+    { "type": "image", "key": "quit", "url": "assets/gui\\b\\quit.png" },
+    { "type": "image", "key": "restart", "url": "assets/gui\\b\\restart.png" },
+    { "type": "image", "key": "resume", "url": "assets/gui\\b\\resume.png" },
+    { "type": "image", "key": "setting", "url": "assets/gui\\b\\setting.png" },
+    { "type": "image", "key": "start", "url": "assets/gui\\b\\start.png" }
+  ],
+  "sub_button": [
+    { "type": "image", "key": "check", "url": "assets/gui\\s_b\\check.png" },
+    { "type": "image", "key": "friend", "url": "assets/gui\\s_b\\friend.png" },
+    { "type": "image", "key": "home", "url": "assets/gui\\s_b\\home.png" },
+    {
+      "type": "image",
+      "key": "information",
+      "url": "assets/gui\\s_b\\information.png"
+    },
+    { "type": "image", "key": "menu", "url": "assets/gui\\s_b\\menu.png" },
+    { "type": "image", "key": "music1", "url": "assets/gui\\s_b\\music1.png" },
+    { "type": "image", "key": "pause", "url": "assets/gui\\s_b\\pause.png" },
+    { "type": "image", "key": "play", "url": "assets/gui\\s_b\\play.png" },
+    { "type": "image", "key": "plus", "url": "assets/gui\\s_b\\plus.png" },
+    { "type": "image", "key": "post", "url": "assets/gui\\s_b\\post.png" },
+    {
+      "type": "image",
+      "key": "ranking",
+      "url": "assets/gui\\s_b\\ranking.png"
+    },
+    { "type": "image", "key": "return", "url": "assets/gui\\s_b\\return.png" },
+    { "type": "image", "key": "set", "url": "assets/gui\\s_b\\set.png" },
+    { "type": "image", "key": "share", "url": "assets/gui\\s_b\\share.png" },
+    { "type": "image", "key": "shop", "url": "assets/gui\\s_b\\shop.png" },
+    { "type": "image", "key": "sound1", "url": "assets/gui\\s_b\\sound1.png" }
+  ],
+  "text": [
+    { "type": "image", "key": "0", "url": "assets/gui\\txt\\0.png" },
+    { "type": "image", "key": "1", "url": "assets/gui\\txt\\1.png" },
+    { "type": "image", "key": "2", "url": "assets/gui\\txt\\2.png" },
+    { "type": "image", "key": "3", "url": "assets/gui\\txt\\3.png" },
+    { "type": "image", "key": "4", "url": "assets/gui\\txt\\4.png" },
+    { "type": "image", "key": "5", "url": "assets/gui\\txt\\5.png" },
+    { "type": "image", "key": "6", "url": "assets/gui\\txt\\6.png" },
+    { "type": "image", "key": "7", "url": "assets/gui\\txt\\7.png" },
+    { "type": "image", "key": "8", "url": "assets/gui\\txt\\8.png" },
+    { "type": "image", "key": "9", "url": "assets/gui\\txt\\9.png" },
+    { "type": "image", "key": "music", "url": "assets/gui\\txt\\music.png" },
+    {
+      "type": "image",
+      "key": "settings",
+      "url": "assets/gui\\txt\\settings.png"
+    },
+    { "type": "image", "key": "sound", "url": "assets/gui\\txt\\sound.png" },
+    { "type": "image", "key": "speed", "url": "assets/gui\\txt\\speed.png" },
+    {
+      "type": "image",
+      "key": "stage text",
+      "url": "assets/gui\\txt\\stage text.png"
+    }
+  ]
+}

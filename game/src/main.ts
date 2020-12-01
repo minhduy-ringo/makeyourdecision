@@ -2,7 +2,7 @@ import * as Phaser from 'phaser';
 import Scenes from './scenes';
 
 const gameConfig: Phaser.Types.Core.GameConfig = {
-  title: 'Sample',
+  title: 'Quiz',
 
   type: Phaser.AUTO,
 
@@ -21,7 +21,7 @@ const gameConfig: Phaser.Types.Core.GameConfig = {
   },
 
   parent: 'game',
-  backgroundColor: '#000000',
+  backgroundColor: '#ffffff',
 };
 
 export const game = new Phaser.Game(gameConfig);
