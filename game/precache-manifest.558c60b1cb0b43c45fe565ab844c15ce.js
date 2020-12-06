@@ -1,6 +1,6 @@
 self.__precacheManifest = [
   {
-    "revision": "82520fff84b79df2526b",
+    "revision": "c0178bc0ee780587a607",
     "url": "./js/bundle.js"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "./js/vendor.bundle.js"
   },
   {
-    "revision": "19b54ef18313a7e49ebca924449a1eec",
+    "revision": "bf82be9b60dfc1004ee0696976cdc9b6",
     "url": "./index.html"
   },
   {
@@ -20,28 +20,28 @@ self.__precacheManifest = [
     "url": "./src/data/grey-button.json"
   },
   {
+    "revision": "9cdcbb6149546f0685f1c087ae22ad9b",
+    "url": "./src/data/story.json"
+  },
+  {
     "revision": "6944fdf4e86a996dfbfd1ac7ede79cef",
     "url": "./src/data/question.json"
   },
   {
-    "revision": "9cdcbb6149546f0685f1c087ae22ad9b",
-    "url": "./src/data/story.json"
+    "revision": "78ea0555ef7648bf378481a5d778d344",
+    "url": "./assets/images/loader-bar.png"
   },
   {
     "revision": "6a091df6870e8c5b79e36dee60d5f5f0",
     "url": "./assets/images/background/cloud-background.png"
   },
   {
-    "revision": "dfb749fb41edc5c53626b50ec9d48776",
-    "url": "./assets/images/loader-bg.png"
-  },
-  {
     "revision": "43a2324f40e080d8dc6e05fb29e4c204",
     "url": "./assets/images/background/seamless-space-min.jpg"
   },
   {
-    "revision": "78ea0555ef7648bf378481a5d778d344",
-    "url": "./assets/images/loader-bar.png"
+    "revision": "dfb749fb41edc5c53626b50ec9d48776",
+    "url": "./assets/images/loader-bg.png"
   },
   {
     "revision": "470485654b379120f9296a2a76ff2f7d",
@@ -56,19 +56,19 @@ self.__precacheManifest = [
     "url": "./assets/UI/pixel-arrow.png"
   },
   {
-    "revision": "4538004e6ad8820e92b9d50f9c1b850a",
-    "url": "./assets/UI/pixel-dialog-box.png"
-  },
-  {
     "revision": "51532bcab8970dc02265f659b612b671",
     "url": "./assets/UI/pixel-heart-32x32.png"
+  },
+  {
+    "revision": "4538004e6ad8820e92b9d50f9c1b850a",
+    "url": "./assets/UI/pixel-dialog-box.png"
   },
   {
     "revision": "b95166a4da6f64ab4bf0a473edeff496",
     "url": "./assets/UI/speaker.png"
   },
   {
-    "revision": "a633170419b982822f8a0314bc1cbd85",
-    "url": "./assets/music/2_23_AM_2.mp3"
+    "revision": "8590cea5a20f57b0fb31bc760a20354d",
+    "url": "./assets/music/2-23-AM-2.mp3"
   }
 ];
