@@ -1,35 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "f5f9355a7d6ada2916fc",
+    "revision": "050444996f4ef0742b70",
     "url": "./js/bundle.js"
   },
   {
-    "revision": "dd396e3b1df0d0abbb47",
+    "revision": "ff9d7bf96339fd75ffa2",
     "url": "./js/vendor.bundle.js"
   },
   {
-    "revision": "0ce7a731b530256228a6110eb66a7128",
+    "revision": "32a253f258fa7e5a8f32eb5d7f6221e5",
     "url": "./index.html"
-  },
-  {
-    "revision": "bd917762166b2fd3ad5cacf89d978136",
-    "url": "././manifest.json"
   },
   {
     "revision": "8fbc96fd3b1f1791a7d28b5670ed5383",
     "url": "./src/data/grey-button.json"
   },
   {
-    "revision": "fc63299c10f52a4ceff6e7421f8d53dd",
-    "url": "./src/data/dialog.json"
-  },
-  {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "revision": "ebdc1a0237428e9f5d096e4af19ac7bb",
     "url": "./src/data/question.json"
   },
   {
-    "revision": "6a091df6870e8c5b79e36dee60d5f5f0",
-    "url": "./assets/images/background/cloud-background.png"
+    "revision": "88f292a2492ff9d4cb3ea0864350e4ae",
+    "url": "./src/data/story.json"
   },
   {
     "revision": "43a2324f40e080d8dc6e05fb29e4c204",
@@ -52,15 +44,31 @@ self.__precacheManifest = [
     "url": "./assets/sprites/player.png"
   },
   {
-    "revision": "b95166a4da6f64ab4bf0a473edeff496",
-    "url": "./assets/UI/speaker.png"
+    "revision": "98cb4833fffc8f813713819e149a3478",
+    "url": "./assets/UI/pixel-arrow.png"
   },
   {
     "revision": "4538004e6ad8820e92b9d50f9c1b850a",
     "url": "./assets/UI/pixel-dialog-box.png"
   },
   {
+    "revision": "51532bcab8970dc02265f659b612b671",
+    "url": "./assets/UI/pixel-heart-32x32.png"
+  },
+  {
+    "revision": "b95166a4da6f64ab4bf0a473edeff496",
+    "url": "./assets/UI/speaker.png"
+  },
+  {
     "revision": "a633170419b982822f8a0314bc1cbd85",
     "url": "./assets/music/2_23_AM_2.mp3"
+  },
+  {
+    "revision": "11c1c9f59b8576af940d2dbc2c50346d",
+    "url": "././manifest.json"
+  },
+  {
+    "revision": "6a091df6870e8c5b79e36dee60d5f5f0",
+    "url": "./assets/images/background/cloud-background.png"
   }
 ];
