@@ -32,7 +32,9 @@
         "Đến bữa tiệc, sau khi chiêm ngưỡng những món đồ có giá trị cùng số tiền mặt có tại bữa tiệc, mỗi người được chọn 1 trong hai thứ trước khi kết thúc hành trình:",
         "question-5"
     ],
-    "content-end": "end",
+    "content-end": [
+        "story-end"
+    ],
     "content-result": [
         "Bạn là người chưa kiên trì trên con đường mình đã chọn, dễ lung lay trước những khó khăn có thể gặp phải. Bạn có thể tham khảo lối sống khắc kỷ để có thêm góc nhìn khác cho các vấn đề trong cuộc sống.",
         "Bạn có thể áp dụng lối sống khắc kỷ nếu bạn luyện tập nhiều hơn. Bạn là người kiên định trên con đường mình đã chọn, biết nhìn đến cái lợi về dài và đồng thời biết quan tâm đến người khác."

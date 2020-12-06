@@ -1,6 +1,6 @@
 self.__precacheManifest = [
   {
-    "revision": "f11fd23b374f0f0285bb",
+    "revision": "82520fff84b79df2526b",
     "url": "./js/bundle.js"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "./js/vendor.bundle.js"
   },
   {
-    "revision": "d00cdc627570a18fe27655a950bc9e93",
+    "revision": "19b54ef18313a7e49ebca924449a1eec",
     "url": "./index.html"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "././manifest.json"
   },
   {
-    "revision": "0a50978f0ca10806a1bf761cd3769e0a",
-    "url": "./src/data/story.json"
+    "revision": "8fbc96fd3b1f1791a7d28b5670ed5383",
+    "url": "./src/data/grey-button.json"
   },
   {
     "revision": "6944fdf4e86a996dfbfd1ac7ede79cef",
     "url": "./src/data/question.json"
   },
   {
-    "revision": "8fbc96fd3b1f1791a7d28b5670ed5383",
-    "url": "./src/data/grey-button.json"
+    "revision": "9cdcbb6149546f0685f1c087ae22ad9b",
+    "url": "./src/data/story.json"
   },
   {
     "revision": "6a091df6870e8c5b79e36dee60d5f5f0",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "./assets/sprites/grey-button.png"
   },
   {
-    "revision": "98cb4833fffc8f813713819e149a3478",
-    "url": "./assets/UI/pixel-arrow.png"
-  },
-  {
     "revision": "de0d1d022ebb86203fb90593189ebc3e",
     "url": "./assets/sprites/player.png"
+  },
+  {
+    "revision": "98cb4833fffc8f813713819e149a3478",
+    "url": "./assets/UI/pixel-arrow.png"
   },
   {
     "revision": "4538004e6ad8820e92b9d50f9c1b850a",
