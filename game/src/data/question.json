@@ -39,19 +39,19 @@
             "Tìm kiếm con đường khác"
         ],
         "score": [
-            2,
-            0
+            -1,
+            2
         ]
     },
     "question-5": {
         "question": "Bạn sẽ chọn?",
         "choice": [
             "Một khoản tiền lớn",
-            "Cẩm nang chứa đựng kinh nghiệm\ncủa nhà tài phiệt"
+            "Cẩm nang chứa đựng kinh\nnghiệm của nhà tài phiệt"
         ],
         "score": [
-            2,
-            0
+            1,
+            4
         ]
     }
 }
