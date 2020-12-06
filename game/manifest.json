@@ -5,7 +5,7 @@
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#000000",
-    "description": "Welcome to Phaser + ES6 + Webpack!.",
+    "description": "Welcome to Phaser + ES6 + Webpack!."
     // "icons": [{
     //   "src": "assets/images/mushroom2.png",
     //   "sizes": "48x48",

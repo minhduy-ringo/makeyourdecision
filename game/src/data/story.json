@@ -1,0 +1,38 @@
+{
+    "content": [
+        "Ở một vùng nọ, một gia đình tài phiệt muốn tìm người tài để tuyển dụng vào công ty nên đã tổ chức một cuộc thi “Hạnh phúc ở đâu?”.",
+        "Để chiến thắng cuộc thi, người chơi phải đi theo bản đồ mà gia đình này đưa ra và đến được một bữa tiệc đầy những món đồ quý giá cùng tài sản quý giá.",
+        "Tò mò trước cuộc thi và mong muốn được làm cho nhà tài phiệt nọ, bạn đã đăng kí tham gia cuộc thi.",
+        "Trên đường đi bạn bắt gặp rất nhiều người cũng đang đi đến bữa tiệc đó. Lần theo bản đồ được gửi kèm trong thư mời, bạn dừng trước một ngã ba.",
+        "Trước mặt bạn có hai con đường rẽ làm 2 hướng khác nhau:",
+        "Con đường thứ nhất rộng rãi thênh thang nhưng không rõ là dẫn đến đâu. Có rất nhiều người lựa chọn con đường này.",
+        "Con đường thứ hai gập ghềnh, khó đi, có khá nhiều chướng ngại vật nhưng chắc chắn dẫn tới bữa tiệc. Ít người chọn con đường này.",
+        "question-1"
+    ],
+    "content-1": [
+        "Sau khi chọn được hướng đi, bạn tiếp tục cuộc hành trình của mình.",
+        "Bạn bắt đầu thấy chán nản vì mãi không tới nơi.",
+        "event-1"
+    ],
+    "content-2": [
+        "Đột nhiên một trong số những người đang đi cùng đưa ra đề nghị đi cùng người đó vì họ biết lối đi tắt, tiết kiệm thời gian.",
+        "Tuy nhiên người đó cũng không chắc chắn về con đường tắt đó liệu có gặp nguy hiểm không.",
+        "question-2"
+    ],
+    "content-3": [
+        "Trên đường đi, khi thời gian chỉ còn 40 phút, bạn bắt gặp một người phụ nữ lớn tuổi đang mệt mỏi và dường như sắp ngất trên đường đi.",
+        "question-3"
+    ],
+    "content-4": [
+        "Gần đến địa điểm, mọi người buộc phải vượt qua một cái cầu dây vắt ngang, bên dưới là vực sâu.",
+        "Đang chuẩn bị qua thì cầu bị đứt, con đường đến với phía bờ kia càng khó khăn hơn.",
+        "question-4"
+    ],
+    "content-5": [
+        "Đến bữa tiệc, sau khi chiêm ngưỡng những món đồ có giá trị cùng số tiền mặt có tại bữa tiệc, mỗi người được chọn 1 trong hai thứ trước khi kết thúc hành trình:",
+        "question-5"
+    ],
+    "end": [
+        "end"
+    ]
+}

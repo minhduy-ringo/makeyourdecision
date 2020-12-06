@@ -1,0 +1,57 @@
+{
+    "question-1": {
+        "question": "Bạn sẽ chọn con đường?",
+        "choice": [
+            "Con đường dễ đi",
+            "Con đường khó đi"
+        ],
+        "score": [
+            1,
+            2
+        ]
+    },
+    "question-2": {
+        "question": "Bạn sẽ chọn?",
+        "choice": [
+            "Đi theo đường tắt",
+            "Tiếp tục con đường đang đi"
+        ],
+        "score": [
+            1,
+            2
+        ]
+    },
+    "question-3": {
+        "question": "Bạn nên?",
+        "choice": [
+            "Tiến tới giúp dù có thể bị trễ",
+            "Ngơ đi vì sẽ có người khác giúp"
+        ],
+        "score": [
+            2,
+            0
+        ]
+    },
+    "question-4": {
+        "question": "Bạn quyết định?",
+        "choice": [
+            "Quay về",
+            "Tìm kiếm con đường khác"
+        ],
+        "score": [
+            2,
+            0
+        ]
+    },
+    "question-5": {
+        "question": "Bạn sẽ chọn?",
+        "choice": [
+            "Một khoản tiền lớn",
+            "Cẩm nang chứa đựng kinh nghiệm\ncủa nhà tài phiệt"
+        ],
+        "score": [
+            2,
+            0
+        ]
+    }
+}
